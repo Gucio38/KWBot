@@ -1,0 +1,27 @@
+[
+    {
+        "version": "v2.1.0",
+        "date": "2026-06-27",
+        "title": "Redesign paneli sterowania",
+        "desc": "Zmieniono wygląd paneli (PVM, PVP, Listy, Zbierajka, Kody) na nowoczesny styl glassmorphism z efektem cyan glow. Dodano siatkę 4 kolumn, automatyczne kolorowanie aktywnych funkcji, pasek szybkiego dostępu z ikonami nad zakładką 'Zap. Lokacje & Codzienne' oraz możliwość przeciągania paneli w dowolne miejsce."
+    },
+    {
+        "version": "v2.0.3",
+        "date": "2026-06-26",
+        "title": "Optymalizacja nawigacji i teleportów",
+        "desc": "Zmieniono mechanikę przechodzenia między lokacjami w zadaniach na Fasolki oraz na Studni Życzeń. Skrypt klika teraz poprawnie przycisk 'Przejdź' zamiast wymuszać akcję klawiszem X, co poprawia stabilność przechodzenia po mapie."
+    },
+    {
+        "version": "v2.0.2",
+        "date": "2026-06-25",
+        "title": "Logowanie",
+        "desc": "Dodano funkcję auto logowania. Po zapisaniu danych konta przy pierwszym logowaniu klient automatycznie uzupełnia formularz logowania dla przypisanego CD-Key przy kolejnych uruchomieniach."
+    },
+    {
+        "version": "v2.0.1",
+        "date": "2026-06-23",
+        "title": "Aktualizacja klienta z v1 do v2.0.1",
+        "desc": "Przebudowano klienta do wersji 2.0.1. Dodano nową stronę powitalną z obsługą CD-Key. Ulepszono zarządzanie wieloma kluczami, poprawiono ogólną stabilność działania klienta."
+        
+    }
+]

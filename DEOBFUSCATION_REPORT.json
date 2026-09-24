@@ -1,0 +1,96 @@
+[
+  {
+    "file": "ddd.js",
+    "decoders": 2,
+    "replaced": 334,
+    "maps": 334,
+    "details": [
+      {
+        "core": "_0x51e7",
+        "array": "_0xd04f",
+        "calls": 183,
+        "decoded": 183,
+        "errors": 0,
+        "aliases": 26,
+        "wrappers": 0
+      },
+      {
+        "core": "_0x3e1e",
+        "array": "_0x37c0",
+        "calls": 151,
+        "decoded": 151,
+        "errors": 0,
+        "aliases": 25,
+        "wrappers": 0
+      }
+    ]
+  },
+  {
+    "file": "load.js",
+    "decoders": 1,
+    "replaced": 270,
+    "maps": 270,
+    "details": [
+      {
+        "core": "_0x10f1",
+        "array": "_0x49ac",
+        "calls": 270,
+        "decoded": 270,
+        "errors": 0,
+        "aliases": 53,
+        "wrappers": 0
+      }
+    ]
+  },
+  {
+    "file": "dupablada123.js",
+    "decoders": 1,
+    "replaced": 576,
+    "maps": 576,
+    "details": [
+      {
+        "core": "_0x26f7",
+        "array": "_0xe1a7",
+        "calls": 576,
+        "decoded": 576,
+        "errors": 0,
+        "aliases": 66,
+        "wrappers": 0
+      }
+    ]
+  },
+  {
+    "file": "ps1.js",
+    "decoders": 1,
+    "replaced": 299,
+    "maps": 299,
+    "details": [
+      {
+        "core": "_0x3381",
+        "array": "_0x5419",
+        "calls": 299,
+        "decoded": 299,
+        "errors": 0,
+        "aliases": 1,
+        "wrappers": 56
+      }
+    ]
+  },
+  {
+    "file": "connectionManager.js",
+    "decoders": 1,
+    "replaced": 46,
+    "maps": 46,
+    "details": [
+      {
+        "core": "_0x3963",
+        "array": "_0x39b8",
+        "calls": 46,
+        "decoded": 46,
+        "errors": 0,
+        "aliases": 1,
+        "wrappers": 38
+      }
+    ]
+  }
+]
